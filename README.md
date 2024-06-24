@@ -49,7 +49,8 @@
 
 ### 🚀 About Me
 
-I'm a passionate developer with a strong background in both UI/UX design and full-stack development. I love turning complex problems into simple, beautiful, and intuitive designs and bringing them to life through code.
+I'm a passionate developer with a strong background in both UI/UX design and full-stack development.
+I love turning complex problems into simple, beautiful, and intuitive designs and bringing them to life through code.
 
 ### 🛠 Skills
 
