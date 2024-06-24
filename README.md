@@ -140,25 +140,25 @@ Feel free to check out my repositories and projects. I'm always open to collabor
 
 ## "Code is like humor. When you have to explain it, it’s bad." - Cory House
 
----
+<!-- ---
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/commune-os/weird/pull/43#issuecomment-2157950068) in [commune-os/weird](https://github.com/commune-os/weird)
+<!-- 1. 🗣 Commented on [#43](https://github.com/commune-os/weird/pull/43#issuecomment-2157950068) in [commune-os/weird](https://github.com/commune-os/weird)
 2. 💪 Opened PR [#43](https://github.com/commune-os/weird/pull/43) in [commune-os/weird](https://github.com/commune-os/weird)
 3. ❗ Opened issue [#1461](https://github.com/nvimdev/lspsaga.nvim/issues/1461) in [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim)
 4. 🗣 Commented on [#4832](https://github.com/louislam/uptime-kuma/issues/4832#issuecomment-2155225004) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 5. 🗣 Commented on [#4832](https://github.com/louislam/uptime-kuma/issues/4832#issuecomment-2154734765) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 <!--END_SECTION:activity-->
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </details>
 
   [![Rawllings's github stats](https://github-readme-stats-chi-silk.vercel.app/api?username=krivahtoo&count_private=true&theme=tokyonight&show_icons=1)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-chi-silk.vercel.app/api/top-langs/?username=krivahtoo&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-chi-silk.vercel.app/api/top-langs/?username=krivahtoo&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
