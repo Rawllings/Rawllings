@@ -52,15 +52,8 @@
 
 I'm a passionate developer with a strong background in both UI/UX design and full-stack development.
 I love turning complex problems into simple, beautiful, and intuitive designs and bringing them to life through code.
-I'm a passionate developer with a strong background in both UI/UX design and full-stack development.
-I love turning complex problems into simple, beautiful, and intuitive designs and bringing them to life through code.
 
 ### 🛠 Skills
-
-#### OS
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### OS
 
