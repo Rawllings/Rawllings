@@ -53,7 +53,7 @@
 I'm a passionate developer with a strong background in both UI/UX design and full-stack development.
 I love turning complex problems into simple, beautiful, and intuitive designs and bringing them to life through code.
 
----
+-----
 
 ### 🛠 Technologies
 
@@ -76,7 +76,7 @@ I love turning complex problems into simple, beautiful, and intuitive designs an
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
----
+--
 
 ##### Libraries & Frameworks:
 
