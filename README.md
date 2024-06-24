@@ -116,8 +116,9 @@ I love turning complex problems into simple, beautiful, and intuitive designs an
 
 🔗 Connect with Me
 
-LinkedIn(https://www.linkedin.com/in/rawllings-kiprop-a23b5b258/)
-!Twitter(https://twitter.com/Senior_chieff)
+LinkedIn: (https://www.linkedin.com/in/rawllings-kiprop-a23b5b258/)
+
+Twitter: (https://twitter.com/Senior_chieff)
 
 ### 📫 How to Reach Me
 
