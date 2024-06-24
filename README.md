@@ -135,7 +135,7 @@ Twitter: (https://twitter.com/Senior_chieff)
 
 #### Phone: +254727371199
 
-Feel free to check out my repositories and projects. I'm always open to collaborating on interesting and challenging projects. Let's build something amazing together!
+#### Feel free to check out my repositories and projects. I'm always open to collaborating on interesting and challenging projects. Let's build something amazing together!
 ---
 
 ## "Code is like humor. When you have to explain it, it’s bad." - Cory House
