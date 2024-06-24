@@ -1,6 +1,6 @@
 <!-- ### Hi there, I'm Rawllings Kiprop - aka Senior_Chief 👋
 
-## I'm a self taught passionate Developer
+## I'm a self-taught passionate Developer
 
 - 🌱 I’m currently working on ReactJs projects
 - 🥅 2024 Goals: Contribute more to Open Source projects
@@ -45,10 +45,13 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/krivahtoo)
 [![LinkedIn](https://img.shields.io/badge/-Mastodon-000?&logo=Mastodon)](https://mas.to/@krivah) -->
 
-## 👋 Hello, I'm Rawllings Kiprop (aka senior_chief)
+
+## 👋 Hello, I'm Rawllings Kiprop, (Senior_Chief)
 
 ### 🚀 About Me
 
+I'm a passionate developer with a strong background in both UI/UX design and full-stack development.
+I love turning complex problems into simple, beautiful, and intuitive designs and bringing them to life through code.
 I'm a passionate developer with a strong background in both UI/UX design and full-stack development.
 I love turning complex problems into simple, beautiful, and intuitive designs and bringing them to life through code.
 
@@ -59,8 +62,14 @@ I love turning complex problems into simple, beautiful, and intuitive designs an
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### Design
+#### OS
 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### UI/UX Design:
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe-XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 UI/UX Design:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe-XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -86,9 +95,9 @@ UI/UX Design:
 
 #### Backend Development
 
-##### Languages:
+##### Languages/Frameworks:
 
-Python,
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Ruby-on-Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Django](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
@@ -117,9 +126,9 @@ Python,
 
 🔗 Connect with Me
 
-LinkedIn(https://www.linkedin.com/in/rawllings-kiprop-a23b5b258/)
-Twitter(https://twitter.com/Senior_chieff)
-Portfolio
+LinkedIn: (https://www.linkedin.com/in/rawllings-kiprop-a23b5b258/)
+
+Twitter: (https://twitter.com/Senior_chieff)
 
 ### 📫 How to Reach Me
 
@@ -128,3 +137,4 @@ Email: rawllingskiprop@example.com
 Feel free to check out my repositories and projects. I'm always open to collaborating on interesting and challenging projects. Let's build something amazing together!
 
 ###### "Code is like humor. When you have to explain it, it’s bad." - Cory House
+
