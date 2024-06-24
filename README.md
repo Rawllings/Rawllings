@@ -46,7 +46,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Mastodon-000?&logo=Mastodon)](https://mas.to/@krivah) -->
 
 
-## 👋 Hello, I'm Rawllings Kiprop (aka senior_chief)
+## 👋 Hello, I'm Rawllings Kiprop, (Senior_Chief)
 
 ### 🚀 About Me
 
