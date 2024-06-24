@@ -123,8 +123,9 @@ Twitter: (https://twitter.com/Senior_chieff)
 
 ### 📫 How to Reach Me
 
-Email: rawllingskiprop@example.com
-Phone: +254727371199
+#### Email: rawllingskiprop@example.com
+
+#### Phone: +254727371199
 
 Feel free to check out my repositories and projects. I'm always open to collaborating on interesting and challenging projects. Let's build something amazing together!
 
