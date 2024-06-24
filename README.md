@@ -53,7 +53,9 @@
 I'm a passionate developer with a strong background in both UI/UX design and full-stack development.
 I love turning complex problems into simple, beautiful, and intuitive designs and bringing them to life through code.
 
-### 🛠 Skills
+---
+
+### 🛠 Technologies
 
 #### OS
 
@@ -64,6 +66,8 @@ I love turning complex problems into simple, beautiful, and intuitive designs an
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe-XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
+---
+
 
 #### Frontend Development
 
@@ -71,6 +75,8 @@ I love turning complex problems into simple, beautiful, and intuitive designs an
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
 
 ##### Libraries & Frameworks:
 
