@@ -77,7 +77,9 @@ Python, Ruby on Rails
 
 ##### Databases:
 
-MySQL, PostgreSQL, SQLite,
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ##### IDEs
